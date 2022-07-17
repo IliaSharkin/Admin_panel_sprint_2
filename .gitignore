@@ -36,6 +36,7 @@ nosetests.xml
 coverage.xml
 *,cover
 .hypothesis/
+.vscode
 
 # dotenv
 .env
